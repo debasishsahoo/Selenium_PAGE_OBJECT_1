@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2c86c29-ca3e-4443-b7b4-4e3f4b019dbd": {
+      "ProjectGuid": "f2c86c29-ca3e-4443-b7b4-4e3f4b019dbd",
+      "DisplayName": "SimpleFramework",
+      "ColorIndex": 0
+    },
+    "e2ca115f-14f4-4d65-b101-6f3fae4fb29a": {
+      "ProjectGuid": "e2ca115f-14f4-4d65-b101-6f3fae4fb29a",
+      "DisplayName": "ReportingLibrary",
+      "ColorIndex": 1
+    },
+    "61e1dab5-3402-481b-bfb7-f9ad60b838af": {
+      "ProjectGuid": "61e1dab5-3402-481b-bfb7-f9ad60b838af",
+      "DisplayName": "SeleniumHelperLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
